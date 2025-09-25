@@ -1,4 +1,4 @@
-# UniConverter Mac – All-in-One Video Conversion Solution  
+# UniConverter Mac – All-in-One Video Conversion Solution   
 
 <div align="center">  
 <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBaA7RMLgBSoig.N7fRjEq5IiqtsizB.vgUTiu_bdXy0AgWDO6jJW5FDWufpaD274HMHVW7n1F6m1fiwtAlEEM_Y-&format=source" alt="UniConverter Mac Logo" width="200">  
